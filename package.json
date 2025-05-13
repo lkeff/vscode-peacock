@@ -437,7 +437,7 @@
   },
   "dependencies": {
     "@types/tinycolor2": "^1.4.1",
-    "tinycolor2": "^1.4.2",
+    "tinycolor2": "^1.6.0",
     "vsls": "^1.0.2594"
   },
   "husky": {
